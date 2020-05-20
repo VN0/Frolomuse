@@ -42,7 +42,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:790249306630:android:8453b1da79b9a488",
         "android_client_info": {
-          "package_name": "com.frolo.musp.dev"
+          "package_name": "com.frolo.musp.dbg"
         }
       },
       "oauth_client": [
