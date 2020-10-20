@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "790249306630-hacigf2imgf16volc5qo26fj0vm6fqes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frolo.musp",
+            "certificate_hash": "7b078c1e7bcc2bcce939514b67293ea47d10d431"
+          }
+        },
+        {
           "client_id": "790249306630-i1qv9iu2nmovmiiekm9pnn3kjgakr88p.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -25,28 +33,33 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790249306630-i1qv9iu2nmovmiiekm9pnn3kjgakr88p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     },
-
     {
       "client_info": {
-        "mobilesdk_app_id": "1:790249306630:android:8453b1da79b9a488",
+        "mobilesdk_app_id": "1:790249306630:android:d5bac8648aa102f82f2187",
         "android_client_info": {
           "package_name": "com.frolo.musp.dbg"
         }
       },
       "oauth_client": [
         {
+          "client_id": "790249306630-7uaj8engokdqcftfmfqm21iqudi0slej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frolo.musp.dbg",
+            "certificate_hash": "a094938ef8ef61b2fe0a76b90b0c11f5a1a641a9"
+          }
+        },
+        {
           "client_id": "790249306630-i1qv9iu2nmovmiiekm9pnn3kjgakr88p.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -57,15 +70,13 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790249306630-i1qv9iu2nmovmiiekm9pnn3kjgakr88p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
