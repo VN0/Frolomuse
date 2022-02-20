@@ -1,6 +1,8 @@
 # Frolomuse
 Music player for Android
 
+![frolomuse_banner](https://user-images.githubusercontent.com/61359788/154864700-06a25692-87b3-46ca-a653-fd1b1f01ad7d.png)
+
 ## How to compile the release variant?
 
 The release variant is signed in a special way. You need to create a file called `signing.properties` and place it in the `app` folder.
